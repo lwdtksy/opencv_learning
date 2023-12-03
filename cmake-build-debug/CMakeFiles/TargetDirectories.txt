@@ -1,0 +1,5 @@
+C:/Users/lwd20/CLionProjects/opencv_learning/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lwd20/CLionProjects/opencv_learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lwd20/CLionProjects/opencv_learning/cmake-build-debug/lesson01/CMakeFiles/app.dir
+C:/Users/lwd20/CLionProjects/opencv_learning/cmake-build-debug/lesson01/CMakeFiles/edit_cache.dir
+C:/Users/lwd20/CLionProjects/opencv_learning/cmake-build-debug/lesson01/CMakeFiles/rebuild_cache.dir

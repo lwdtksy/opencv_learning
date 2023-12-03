@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/lwd20/CLionProjects/opencv_learning/cmake-build-debug/CMakeFiles/opencv_learning.dir/embed.manifest"
